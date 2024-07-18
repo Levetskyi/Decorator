@@ -1,0 +1,1 @@
+﻿new TextEditorClient().Main();
